@@ -1,0 +1,37 @@
+{
+
+    "doctype" : "data_block_table",
+    "title" : "Live Coffee Sales",
+    "view" : "type1",
+    "rows"  : [
+
+{"data" : ["Affogato", "92 Cups sold today"]},
+{"data" : ["Americano", "35 Cups sold today"]},
+{"data" : ["Bicerin", "55 Cups sold today"]},
+{"data" : ["Breve", "8 Cups sold today"]},
+{"data" : ["Ca phe sua da", "66 Cups sold today"]},
+{"data" : ["Cafe mocha", "126 Cups sold today"]},
+{"data" : ["Caffé Corretto", "167 Cups sold today"]},
+{"data" : ["Caffé Latte", "83 Cups sold today"]},
+{"data" : ["Caffé macchiato", "177 Cups sold today"]},
+{"data" : ["Café Bombón", "121 Cups sold today"]},
+{"data" : ["Café Crema", "70 Cups sold today"]},
+{"data" : ["Café au lait", "123 Cups sold today"]},
+{"data" : ["Café mélange", "82 Cups sold today"]},
+{"data" : ["Cappuccino", "35 Cups sold today"]},
+{"data" : ["Carajillo", "46 Cups sold today"]},
+{"data" : ["Coffee milk", "109 Cups sold today"]},
+{"data" : ["Cortado", "175 Cups sold today"]},
+{"data" : ["Cuban espresso", "73 Cups sold today"]},
+{"data" : ["Eiskaffee", "92 Cups sold today"]},
+{"data" : ["Espresso", "7 Cups sold today"]},
+{"data" : ["Frappuccino", "194 Cups sold today"]},
+{"data" : ["Galao", "195 Cups sold today"]},
+{"data" : ["Greek frappé coffee", "12 Cups sold today"]},
+{"data" : ["Iced Coffee", "31 Cups sold today"]},
+{"data" : ["Indian filter coffee", "69 Cups sold today"]},
+{"data" : ["Instant coffee", "190 Cups sold today"]},
+{"data" : ["Irish coffee", "67 Cups sold today"]},
+{"data" : ["Liqueur coffee", "28 Cups sold today"]},
+{"data" : ["The Flat White", "65 Cups sold today"]}
+]}

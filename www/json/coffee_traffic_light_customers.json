@@ -1,0 +1,10 @@
+{
+    "doctype" : "data_block_table",
+    "title" : "Wholesale customers",
+    "view" : "traffic light 0",
+    "rows"  : [
+            { "data" : ["Cafe neo", 0]},
+            { "data" : ["Loading bay", 0]},
+            { "url" : "http://apps.moofia.net/json/coffee_traffic_light_miss_k.json", "data" : ["Miss k", 2]}
+            ],
+}

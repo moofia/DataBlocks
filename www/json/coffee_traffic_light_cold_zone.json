@@ -1,0 +1,9 @@
+{
+    "doctype" : "data_block_table",
+    "title" : "Cold Zone",
+    "view" : "traffic light 1",
+    "rows"  : [
+            {"data" : ["Element 1",0, "Front element"]},
+            {"data" : ["Element 2",2, "In the fryer below the heating element"]},
+            ],
+}

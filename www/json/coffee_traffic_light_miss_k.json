@@ -1,0 +1,11 @@
+{
+    "doctype" : "data_block_table",
+    "title" : "Miss k",
+    "view" : "traffic light 1",
+    "rows"  : [
+            {"data" : ["Full City Roast",0, "2 x bags"]},
+            {"data" : ["Vienna Roast",0, "2 x bags"]},
+            {"data" : ["Italian Roast",0, "4 x bags"]},
+            {"data" : ["Spanish Roast",2, "Failed quality test, having to redo order"]},
+            ],
+}

@@ -1,0 +1,10 @@
+{
+    "doctype" : "data_block_table",
+    "title" : "Coffee Factory",
+    "view" : "type1",
+    "rows"  : [
+            {"url" : "http://apps.moofia.net/json/coffee_traffic_light.json", "data" : ["Coffee monitoring", "monitoring of espresso machines"]},
+            {"url" : "http://apps.moofia.net/json/coffee_sales.json", "data" : ["Coffee sales", "34 cups"]},
+            {"url" : "http://apps.moofia.net/json/coffee_traffic_light_customers.json", "data" : ["Wholesale customers", "1 issue"]},
+            ],
+}
