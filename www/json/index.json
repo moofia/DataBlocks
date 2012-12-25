@@ -1,10 +1,54 @@
 {
-    "doctype" : "data_block_table",
-    "title" : "Coffee Factory",
-    "view" : "type1",
-    "rows"  : [
-            {"url" : "http://apps.moofia.net/json/coffee_traffic_light.json", "data" : ["Coffee monitoring", "monitoring of espresso machines"]},
-            {"url" : "http://apps.moofia.net/json/coffee_sales.json", "data" : ["Coffee sales", "34 cups"]},
-            {"url" : "http://apps.moofia.net/json/coffee_traffic_light_customers.json", "data" : ["Wholesale customers", "1 issue"]},
-            ],
+  "doctype":"data_block_table",
+  "title":"Coffee Factory",
+  "view":"type1",
+  "rows":[
+    {
+      "url":"http://apps.moofia.net/json/coffee_traffic_light.json",
+      "data":[
+        "Coffee monitoring",
+        "monitoring of espresso machines"
+      ]
+    },
+    {
+      "id":"abc123",
+      "url":"http://apps.moofia.net/json/coffee_sales.json",
+      "data":[
+        "Coffee sales",
+        "34 cups"
+      ]
+    },
+    {
+      "url":"http://apps.moofia.net/json/coffee_traffic_light_customers.json",
+      "data":[
+        "Wholesale customers",
+        "1 issue"
+      ]
+    }
+  ],
+  "search scope":[
+    "Name",
+    "Description"
+  ],
+  "actions":{
+    "custom":{
+      "Foo":"http://apps.moofia.net/DataBlocks/actions.cgi",
+      "bar":"http://apps.moofia.net/DataBlocks/actions.cgi"
+    },
+    "sms":{
+      "recipients":[
+        "+27832002374",
+        "+123456"
+      ],
+      "body format":"custom sms format field %0 - field %1"
+    },
+    "email":{
+      "recipients":[
+        "atlas@wire.org.za",
+        "j@wire.org.za"
+      ],
+      "subject format":"[DataBlocks] %0 - %1",
+      "body format":"Hello,\n This is a mesage %0 with %1"
+    }
+  }
 }
