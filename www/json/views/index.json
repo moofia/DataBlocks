@@ -1,0 +1,12 @@
+{
+
+    "doctype" : "data_block_table",
+    "title" : "Examples",
+    "view" : "type0",
+    "rows"  : [
+
+{"url": "http://apps.moofia.net/json/views/type0.json", "data" : ["Type 0"]},
+{"url": "http://apps.moofia.net/json/views/type1.json", "data" : ["Type 1"]},
+{"url": "http://apps.moofia.net/json/views/type2.json", "data" : ["Type 2"]},
+{"url": "http://apps.moofia.net/json/views/type3.json", "data" : ["Type 3"]}
+]}

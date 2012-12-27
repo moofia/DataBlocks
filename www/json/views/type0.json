@@ -1,0 +1,7 @@
+{
+
+    "doctype" : "data_block_table",
+    "title" : "Type 0",
+    "view" : "type0",
+    "rows"  : [ {"data" : ["This is view type0 displaying.."]}, ]
+}

@@ -1,0 +1,7 @@
+{
+
+    "doctype" : "data_block_table",
+    "title" : "Type 3",
+    "view" : "type3",
+    "rows"  : [ {"data" : ["Affogato", "92 Cups sold today", "Yummy","5","warm"]}, {"data" : ["Americano", "35 Cups sold today", "OK","6","hot"]}, ]
+}
