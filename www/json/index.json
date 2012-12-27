@@ -4,6 +4,13 @@
   "view":"type1",
   "rows":[
     {
+      "url":"http://apps.moofia.net/json/views/index.json",
+      "data":[
+        "Examples",
+        "Examples of all the views"
+      ]
+    },
+    {
       "url":"http://apps.moofia.net/json/coffee_traffic_light.json",
       "data":[
         "Coffee monitoring",
